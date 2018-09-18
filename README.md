@@ -15,6 +15,6 @@ A pontuação atualiza em 1 ponto por segundo, mas ao comer uma maçã, adiciona
 
 Se a snake tentar sair para fora do limite da tela, o jogador perde e é Game Over.
 
-Como enviei o projeto do jogo, para rodá-lo precisa ter a versão da Unity igual ou superior a minha, Unity 18.1.6f1.
+Para rodá-lo precisa ter a versão da Unity igual ou superior a minha, Unity 18.1.6f1.
 
 A única maneira de rodar é na Unity. 
