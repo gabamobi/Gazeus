@@ -1,5 +1,5 @@
-# Gazeus
-Projetos para apresentar à Gazeus
+# Gustavo Snake
+Projetos para apresentar à equipe da Gazeus
 
 *** Mecânica do jogo ***
 
